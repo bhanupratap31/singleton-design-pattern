@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 public class StaticBlock {
     private static StaticBlock instance; 
 

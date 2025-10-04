@@ -1,4 +1,5 @@
-package Singleton;
+package singleton; // Changed package to fix the incorrect package issue
+
 public class EagerSingleton {
     private static final EagerSingleton instance= new EagerSingleton(); 
 
@@ -8,3 +9,5 @@ public class EagerSingleton {
         return instance; 
     }
 }
+
+

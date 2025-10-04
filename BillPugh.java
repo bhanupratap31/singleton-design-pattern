@@ -1,4 +1,5 @@
-package Singleton;
+package singleton; // Changed back to original case
+
 public class BillPugh {
     BillPugh(){}
 

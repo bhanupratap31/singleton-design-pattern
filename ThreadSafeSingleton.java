@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 public class ThreadSafeSingleton {
     private static ThreadSafeSingleton instance; 
 
